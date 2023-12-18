@@ -1,0 +1,15 @@
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.Logic\bin\Debug\net6.0\WebLibrary.Logic.deps.json
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.Logic\bin\Debug\net6.0\WebLibrary.Logic.dll
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.Logic\bin\Debug\net6.0\WebLibrary.Logic.pdb
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.Logic\bin\Debug\net6.0\WebLibrary.DAL.dll
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.Logic\bin\Debug\net6.0\WebLibrary.DAL.pdb
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.Logic\obj\Debug\net6.0\WebLibrary.Logic.csproj.AssemblyReference.cache
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.Logic\obj\Debug\net6.0\WebLibrary.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.Logic\obj\Debug\net6.0\WebLibrary.Logic.AssemblyInfoInputs.cache
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.Logic\obj\Debug\net6.0\WebLibrary.Logic.AssemblyInfo.cs
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.Logic\obj\Debug\net6.0\WebLibrary.Logic.csproj.CoreCompileInputs.cache
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.Logic\obj\Debug\net6.0\WebLibrary.Logic.csproj.CopyComplete
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.Logic\obj\Debug\net6.0\WebLibrary.Logic.dll
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.Logic\obj\Debug\net6.0\refint\WebLibrary.Logic.dll
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.Logic\obj\Debug\net6.0\WebLibrary.Logic.pdb
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.Logic\obj\Debug\net6.0\ref\WebLibrary.Logic.dll

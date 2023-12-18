@@ -1,0 +1,14 @@
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.DAL\bin\Debug\net6.0\WebLibrary.DAL.deps.json
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.DAL\bin\Debug\net6.0\WebLibrary.DAL.runtimeconfig.json
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.DAL\bin\Debug\net6.0\WebLibrary.DAL.dll
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.DAL\bin\Debug\net6.0\WebLibrary.DAL.pdb
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.DAL\obj\Debug\net6.0\WebLibrary.DAL.csproj.AssemblyReference.cache
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.DAL\obj\Debug\net6.0\WebLibrary.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.DAL\obj\Debug\net6.0\WebLibrary.DAL.AssemblyInfoInputs.cache
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.DAL\obj\Debug\net6.0\WebLibrary.DAL.AssemblyInfo.cs
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.DAL\obj\Debug\net6.0\WebLibrary.DAL.csproj.CoreCompileInputs.cache
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.DAL\obj\Debug\net6.0\WebLibrary.DAL.dll
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.DAL\obj\Debug\net6.0\refint\WebLibrary.DAL.dll
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.DAL\obj\Debug\net6.0\WebLibrary.DAL.pdb
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.DAL\obj\Debug\net6.0\WebLibrary.DAL.genruntimeconfig.cache
+D:\GitHub\WebLibrary\WebLibrary\WebLibrary.DAL\obj\Debug\net6.0\ref\WebLibrary.DAL.dll
